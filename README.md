@@ -49,7 +49,7 @@ Include screenshots of your game here to give users a preview.
 ## Author
 
 - **Name**: Adeel Ahmad Khan
-- **GitHub**: [@AdeelAhmad](https://github.com/your-username)
+- **GitHub**: [@AdeelAhmad](https://github.com/AdeelAhmad2295)
 
 ## Contributing
 
