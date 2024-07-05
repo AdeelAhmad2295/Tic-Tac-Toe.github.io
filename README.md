@@ -40,7 +40,7 @@ To play the game locally, simply clone this repository and open the `index.html`
    - Click the 'Restart' button to start a new game at any time.
 
 ## Screenshots
-![Uploading image1.png…](https://drive.google.com/file/d/18GdQ7p5Xgir-1XTHPmsRpJ5EArstpiNi/view?usp=sharing)
+![Uploading image.png…]()
 
 Include screenshots of your game here to give users a preview.
 
