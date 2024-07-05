@@ -41,6 +41,8 @@ To play the game locally, simply clone this repository and open the `index.html`
 
 ## Screenshots
 ![img1](https://github.com/AdeelAhmad2295/Tic-Tac-Toe.github.io/assets/110482402/8d0bd5b2-eeaa-43d0-8998-a4ca5508054f)
+![img2](https://github.com/AdeelAhmad2295/Tic-Tac-Toe.github.io/assets/110482402/960a2ea5-a8f7-4ab2-88d5-01bec2593c23)
+![img3](https://github.com/AdeelAhmad2295/Tic-Tac-Toe.github.io/assets/110482402/766938b5-ce4a-49ad-a6eb-1c9480d763c5)
 
 Include screenshots of your game here to give users a preview.
 
