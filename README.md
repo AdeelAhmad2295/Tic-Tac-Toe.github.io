@@ -27,7 +27,6 @@ To play the game locally, simply clone this repository and open the `index.html`
 ## How to Play
 
 1. **Single Player Mode**: Play against the computer (AI).
-   - Select 'Single Player' mode to begin.
    - You will automatically start as 'X' while the AI plays as 'O'.
    - Click on any empty cell to make your move.
    - The AI will then make its move.
