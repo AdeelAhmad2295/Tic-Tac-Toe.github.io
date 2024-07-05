@@ -18,7 +18,7 @@ This project is a simple implementation of the classic Tic Tac Toe game where yo
 
 ## Deployment
 
-The game is deployed and can be played online. [Play Tic Tac Toe Against AI](#) (Replace `#` with your deployment link).
+The game is deployed and can be played online. [Play Tic Tac Toe Against AI](https://adeelahmad2295.github.io/Tic-Tac-Toe.github.io/) (Replace `#` with your deployment link).
 
 ## Getting Started
 
