@@ -48,8 +48,8 @@ Include screenshots of your game here to give users a preview.
 
 ## Author
 
-- **Name**: [Your Name]
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Name**: Adeel Ahmad Khan
+- **GitHub**: [@AdeelAhmad](https://github.com/your-username)
 
 ## Contributing
 
